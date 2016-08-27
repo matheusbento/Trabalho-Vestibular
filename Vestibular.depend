@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1456762021 source:c:\users\matheus bento\desktop\vestibular\vestibular\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<sstream>
+
+1455546595 source:c:\users\cliente\desktop\downloads\vestibular\vestibular\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1455816307 source:c:\users\temp.laboratorios\downloads\vestibular-2016-02-18\vestibular\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
